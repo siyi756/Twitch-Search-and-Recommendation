@@ -1,2 +1,2 @@
-#Twitch+ Project
-by Siyi Du
+# Twitch+ Project
+## by Siyi Du
